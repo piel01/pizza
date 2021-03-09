@@ -1,0 +1,9 @@
+body{
+    background-image: url(../IMAGES/pizza.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: blueviolet;
+}
+.header{
+    height: 300px;
+}
